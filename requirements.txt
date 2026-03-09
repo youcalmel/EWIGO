@@ -1,0 +1,1 @@
+# Aucun package externe requis pour cette version MVP.
